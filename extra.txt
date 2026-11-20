@@ -1,0 +1,4 @@
+python -c "from pipeline import Pipeline; p=Pipeline(); print(p.run_on_file(r'D:\project\mental_health_review\data\test_audio\person2.wav', quantize=True))"
+
+
+python -u modules\dam_runner.py "D:\project\mental_health_review\models\dam\Jimmy.wav"

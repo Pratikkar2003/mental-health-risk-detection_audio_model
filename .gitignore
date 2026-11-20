@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+.vscode/
+.DS_Store
+data/test_audio/
+models/dam/dam3.1.ckpt
+__pycache__/
+*.pyc
